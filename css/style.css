@@ -17,3 +17,19 @@ header {
 .linkbox {
     color: #20A9E5;
 }
+
+.cell-bigger {
+    width: 60%;
+    text-align: left;
+}
+
+.table-font {
+    background-color: #20A9E5;
+    color: white;
+    text-align: left;
+}
+
+.table-body {
+    background-color: #B1E5F2;
+    text-align: left;
+}
